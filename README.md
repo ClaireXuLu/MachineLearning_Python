@@ -10,4 +10,7 @@
 
 3. **Perceptron**
 
+4. **K-Means**
+
+
    
