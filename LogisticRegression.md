@@ -173,6 +173,6 @@ print(accuracy)
 
 ### 2. 结果
 
-![image-20221011110557464](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221011110557464.png)
+![image-20221011110557464](https://s2.loli.net/2022/10/20/MwbWnfx8JHtDhdK.png)
 
 ![image-20221011111636439](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221011111636439.png)

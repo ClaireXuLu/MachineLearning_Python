@@ -77,7 +77,7 @@ print(Z)
 
 ### 3.2 结果
 
-![image-20221018211330024](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221018211330024.png)
+![image-20221018211330024](https://img-blog.csdnimg.cn/e94e614c09d94ef3bcb521dd62a9a7e0.png)
 
 
 

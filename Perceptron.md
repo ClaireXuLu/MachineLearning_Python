@@ -2,7 +2,7 @@
 
 分类模型；找到一个超平面$\vec w \vec x +b =0$ 大于0进行分类判断；感知机也可以看成一个单层神经网络
 
-![image-20221017083227358](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221017083227358.png)
+![image-20221017083227358](https://s2.loli.net/2022/10/20/O5rNWMbes4juUfv.png)
 
 ## 1. 模型
 
@@ -119,4 +119,7 @@ print('acc:\n', acc)
 
 ### 结果
 
-![image-20221017103437104](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221017103437104.png)
+![image-20221017103437104](https://s2.loli.net/2022/10/20/n15ubHNRSxpeZt6.png)
+
+
+

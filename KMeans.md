@@ -82,4 +82,4 @@ for i in range(10):
 
 基本可以看到同样的数字被归为一个类别，虽然在一些地方还是有错误的归类
 
-![image-20221018115447853](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221018115447853.png)
+![image-20221018115447853](https://s2.loli.net/2022/10/20/GM5x2aoe89A4JLm.png)

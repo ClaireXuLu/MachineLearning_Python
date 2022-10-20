@@ -138,4 +138,4 @@ print('\ntheta:\n', theta)
 
 ### 结果
 
-![image-20221010161532855](C:\Users\徐璐\AppData\Roaming\Typora\typora-user-images\image-20221010161532855.png)
+![image-20221010161532855](https://s2.loli.net/2022/10/20/RAGD63kqWO4dXEz.png)
