@@ -16,6 +16,11 @@
 
 6. **Neural Network**
 
+7. **CNN**
+
+8. **KNN**
+
+
 
 
 
