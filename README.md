@@ -22,6 +22,8 @@
 
 9. **SVM**
 
+10. **DecisionTree**
+
 
 
 
