@@ -24,6 +24,14 @@
 
 10. **DecisionTree**
 
+11. **CNNs**
+    * LeNet
+    * AlexNet
+    * NiN
+    * VGG
+    * GoogleNet
+    * ResNet
+
 
 
 
